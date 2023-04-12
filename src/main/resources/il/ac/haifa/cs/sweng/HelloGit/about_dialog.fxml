@@ -5,7 +5,7 @@
 
 <VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/19">
    <children>
-      <Label text="bshara khoury" />
+      <Label text="bshara khoury moanes samara" />
    </children>
 
 </VBox>
